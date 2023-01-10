@@ -1,0 +1,21 @@
+{
+  "name": "akova",
+  "version": "1.0.0",
+  "description": "web dev ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"lite-server"
+  },
+  "keywords": [
+    "akova",
+    "web",
+    "dev",
+    "students"
+  ],
+  "author": "Anjali",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
